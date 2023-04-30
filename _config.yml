@@ -1,16 +1,19 @@
-title: Sowmya S
+title: <p align="center"> Sowmya S </p>
 logo: /assets/img/sowmya.jpg
-description: 
+
+description:
   <p align="center">
+  <a href="https://www.linkedin.com/in/sowmya-s-6a7823158/">LinkedIn</a> |
   <a href="https://github.com/sowmya690">GitHub</a>
   
   <br>   
-  I'm working on Big Data, Spark, Machine learning & NLP related problems.
-  Also handing the Big Data from real-time GeoData location.
-  Worked with Synchronoss technologies at Big Data Analytics team.
-  Working in Rakuten in Bigdata and Geo Analytics domain for 3 years.
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Geo location data.
+  Worked with synchronoss technologies at Big Data Analytics team.
+  Working in bigdata domain for 3 years.
   <br>
   </p>
+
 
 
 theme: jekyll-theme-minimal
